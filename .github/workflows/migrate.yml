@@ -49,8 +49,8 @@ jobs:
       - name: Commit and Push Changes
         run: |
           # Commit the migrated code changes
-          git config user.name "Your Username"
-          git config user.email "youremail@example.com"
+          git config user.name "Aditya999999"
+          git config user.email "adityadubey772@gmail.com"
           git add .
           git commit -m "Migrated to Java 11"
           git push
