@@ -53,4 +53,5 @@ jobs:
           git config user.email "adityadubey772@gmail.com"
           git add .
           git commit -m "Migrated to Java 11"
-          git push
+          git push https://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@github.com/Aditya999999/java-migration.git
+
